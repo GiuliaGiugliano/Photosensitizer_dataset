@@ -1,3 +1,0 @@
-HOMO       energy:  0.3102  eV
-LUMO       energy:  2.7571  eV
-HOMO-LUMO  gap:     2.4469  eV

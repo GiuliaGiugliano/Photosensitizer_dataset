@@ -1,5 +1,0 @@
-! b3lyp_g zora zora-def2-tzvp RI-SOMF(1X) SARC/J OPT
-%BASIS
-        newgto I  "sarc-zora-tzvp" end
-end
-* xyzfile   -2  3 xtbopt.xyz
