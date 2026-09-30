@@ -1,0 +1,6 @@
+erythrosin_b/erythrosin_b_protomer_1	iodio
+bdpi/bdpi_protomer_1	iodio
+bbdpi/bbdpi_protomer_1	iodio
+dpp_bodipy/dpp_bodipy_protomer_1	iodio
+car_bdp/car_bdp_protomer_1	iodio
+rose_bengal/rose_bengal_protomer_1	iodio

@@ -1,0 +1,13 @@
+! b3lyp_g zora zora-def2-tzvp RI-SOMF(1X) SARC/J
+%maxcore 16000
+
+%TDDFT
+        nroots  10
+        triplets true
+        dosoc   true
+        tda     true
+END
+%BASIS
+        newgto I  "sarc-zora-tzvp" end
+end
+* xyzfile   -2  1 xtbopt.xyz

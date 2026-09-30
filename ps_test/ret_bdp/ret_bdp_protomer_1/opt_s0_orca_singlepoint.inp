@@ -1,0 +1,7 @@
+! b3lyp_g  def2-tzvp  CPCM(water) Slowconv
+%maxcore 8000
+
+%scf
+  maxiter 500
+end
+* xyzfile   0  1 xtbopt.xyz

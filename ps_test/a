@@ -1,0 +1,653 @@
+==> acridine/acridine_protomer_1/opt_t1.xyz <==
+23
+Coordinates from ORCA-job opt_t1 E -555.707803
+C      1.089831    1.749302    0.119286
+C     -0.218164    1.259998    0.175130
+
+==> acridine_orange/acridine_orange_protomer_1/opt_t1.xyz <==
+40
+Coordinates from ORCA-job opt_t1 E -824.229492
+C      5.503783    7.123469   -2.419004
+H      4.896293    6.442079   -1.818632
+
+==> aloe_emodin/aloe_emodin_protomer_1/opt_t1.xyz <==
+30
+Coordinates from ORCA-job opt_t1 E -954.094726
+O      3.803567    6.578904    0.578333
+C      4.063915    5.417970    0.200457
+
+==> altertoxin_i/altertoxin_i_protomer_1/opt_t1.xyz <==
+42
+Coordinates from ORCA-job opt_t1 E -1223.569749
+C      3.395374   -0.552334   -2.965004
+H      3.261292    0.525175   -3.067914
+
+==> ameluz/ameluz_protomer_1/opt_t1.xyz <==
+18
+Coordinates from ORCA-job opt_t1 E -476.490592
+O      6.891653   -0.395033    2.839177
+C      5.928868   -0.271972    2.061764
+
+==> angelicin/angelicin_protomer_1/opt_t1.xyz <==
+20
+Coordinates from ORCA-job opt_t1 E -648.614003
+C      4.699618    0.717712    1.341921
+O      5.977791    0.667489    1.856024
+
+==> bacteriochlorin/bacteriochlorin_protomer_1/opt_t1.xyz <==
+42
+Coordinates from ORCA-job opt_t1 E -992.307726
+C     -4.120514    1.921819   -3.144027
+H     -5.091324    1.422211   -3.136558
+
+==> bacteriopheophorbide_a/bacteriopheophorbide_a_protomer_1/opt_t1.xyz <==
+82
+Coordinates from ORCA-job opt_t1 E -2027.315544
+O      3.954172   -1.004183   -8.167988
+C      3.663772    0.140709   -7.728865
+
+==> bbdp/bbdp_protomer_1/opt_t1.xyz <==
+74
+Coordinates from ORCA-job opt_t1 E -1907.863368
+C     -3.017806    3.202934    5.161854
+C     -2.484128    3.638216    3.964332
+
+==> bbdpbr/bbdpbr_protomer_1/opt_t1.xyz <==
+74
+Coordinates from ORCA-job opt_t1 E -12202.168270
+Br    -2.242500    3.001578    6.697637
+C     -2.656544    4.604614    5.790812
+
+==> bbdpi/bbdpi_protomer_1/opt_t1.xyz <==
+74
+Coordinates from ORCA-job opt_t1 E -30804.016288
+I     -6.182619   11.846924    0.344320
+C     -4.245962   11.442855   -0.335815
+
+==> bdp/bdp_protomer_1/opt_t1.xyz <==
+43
+Coordinates from ORCA-job opt_t1 E -1070.075119
+C      7.236183   -4.219585   -1.424892
+C      7.346909   -3.093735   -0.631034
+
+==> bdpbr/bdpbr_protomer_1/opt_t1.xyz <==
+43
+Coordinates from ORCA-job opt_t1 E -6217.227644
+Br    12.504030    6.730849   -0.616795
+C     11.135168    5.435904   -0.738366
+
+==> bdpi/bdpi_protomer_1/opt_t1.xyz <==
+46
+Coordinates from ORCA-job opt_t1 E -8333.945298
+I     13.548306    5.306174    1.750990
+C     11.837117    4.116142    1.538961
+
+==> berberine/berberine_protomer_1/opt_t1.xyz <==
+43
+Coordinates from ORCA-job opt_t1 E -1128.806285
+C      7.044918    0.899997   -1.038640
+H      8.037007    1.097288   -1.405080
+
+==> bergamottin/bergamottin_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1 E -1114.690879
+C      5.246389    7.074899   -1.581510
+H      4.522301    6.899740   -0.785197
+
+==> bergapten/bergapten_protomer_1/opt_t1.xyz <==
+24
+Coordinates from ORCA-job opt_t1 E -763.187707
+C      2.651074   -0.683020    1.610805
+H      2.211619   -1.166994    2.477460
+
+==> bergaptol/bergaptol_protomer_1/opt_t1.xyz <==
+20
+Coordinates from ORCA-job opt_t1 E -723.430565
+C      2.028759    3.634887    0.155586
+H      0.994089    3.909998    0.308900
+
+==> blepharismin/blepharismin_protomer_1/opt_t1.xyz <==
+79
+Coordinates from ORCA-job opt_t1 E -2407.497795
+O     -0.178806   -3.035247    3.094258
+C      0.118178   -1.827912    2.900990
+
+==> calphostin_c/calphostin_c_protomer_1/opt_t1.xyz <==
+96
+Coordinates from ORCA-job opt_t1 E -2753.787461
+C      2.333454    3.278802    1.346497
+C      1.010476    3.858195    1.185179
+
+==> car_bdp/car_bdp_protomer_1/opt_t1.xyz <==
+133
+Coordinates from ORCA-job opt_t1 E -17631.016666
+C     13.518366   -0.314730   -0.468947
+H     13.843481   -0.251978    0.576875
+
+==> cardiogreen/cardiogreen_protomer_1/opt_t1.xyz <==
+100
+Coordinates from ORCA-job opt_t1 E -3025.207759
+C     -3.939890  -10.949234    0.036247
+C     -3.486405  -10.602628   -1.265901
+
+==> carminic_acid/carminic_acid_protomer_1/opt_t1.xyz <==
+54
+Coordinates from ORCA-job opt_t1 E -1828.611613
+O      3.557599    4.352181   -2.007885
+C      3.881571    3.678766   -0.985712
+
+==> cercosporin/cercosporin_protomer_1/opt_t1.xyz <==
+65
+Coordinates from ORCA-job opt_t1 E -1873.680902
+C      0.732199    7.171442    1.574807
+H      1.183439    7.703932    2.413865
+
+==> chlorin/chlorin_protomer_1/opt_t1.xyz <==
+40
+Coordinates from ORCA-job opt_t1 E -991.082240
+C     -4.838531    0.762196    2.135937
+H     -5.423900    1.681255    2.063090
+
+==> chlorine_e6/chlorine_e6_protomer_1/opt_t1.xyz <==
+77
+Coordinates from ORCA-job opt_t1 E -1987.054645
+O      7.642005   -1.185901    6.876775
+C      6.666903   -1.319417    6.090014
+
+==> chrysontemin/chrysontemin_protomer_1/opt_t1.xyz <==
+53
+Coordinates from ORCA-job opt_t1 E -1640.779657
+C      7.723880    1.555447   -2.877783
+H      7.804541    0.570263   -2.456537
+
+==> chrysophanol/chrysophanol_protomer_1/opt_t1.xyz <==
+29
+Coordinates from ORCA-job opt_t1 E -878.846093
+O      3.774152    4.491987    3.446921
+C      3.904392    4.166024    2.248598
+
+==> cinchonamine/cinchonamine_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1 E -923.892041
+C      7.559528   -3.257802   -1.602700
+H      7.986073   -2.956569   -2.551577
+
+==> coralyne/coralyne_protomer_1/opt_t1.xyz <==
+49
+Coordinates from ORCA-job opt_t1 E -1207.464757
+C      9.836585    6.173136   -5.512124
+H      9.729067    5.297499   -6.153661
+
+==> curcumin/curcumin_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1 E -1264.030476
+C      6.120810    0.110517   -2.647006
+H      6.236654   -0.694483   -1.918530
+
+==> dpp_bodipy/dpp_bodipy_protomer_1/opt_t1.xyz <==
+144
+Coordinates from ORCA-job opt_t1 E -32155.371775
+I     20.529682    1.762601    2.412702
+C     19.418470    2.736118    0.930654
+
+==> ecb04/ecb04_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1 E -2942.770990
+C     -4.502792    4.729906    8.309083
+C     -5.600703    5.532266    8.106512
+
+==> edkc/edkc_protomer_1/opt_t1.xyz <==
+70
+Coordinates from ORCA-job opt_t1 E -1611.967484
+O     -2.922480   -5.922166    8.566724
+C     -3.374634   -6.062138    9.920740
+
+==> ellipticine/ellipticine_protomer_1/opt_t1.xyz <==
+33
+Coordinates from ORCA-job opt_t1 E -765.991169
+C      1.482617    1.591304    0.242310
+H      2.506177    1.936402    0.112641
+
+==> elsinochrome_a/elsinochrome_a_protomer_1/opt_t1.xyz <==
+64
+Coordinates from ORCA-job opt_t1 E -1910.596368
+O      4.686742    7.805732   -1.539405
+C      3.804808    7.156938   -0.900928
+
+==> emodin/emodin_protomer_1/opt_t1.xyz <==
+30
+Coordinates from ORCA-job opt_t1 E -954.110879
+O      1.923807    3.125346    0.437611
+C      2.901082    3.746151   -0.037695
+
+==> eosin/eosin_protomer_1/opt_t1.xyz <==
+35
+Coordinates from ORCA-job opt_t1 E -11439.235712
+O      5.168556   -0.839975   -5.971716
+C      4.957470   -1.008149   -4.756467
+
+==> epoxybergamottin/epoxybergamottin_protomer_1/opt_t1.xyz <==
+48
+Coordinates from ORCA-job opt_t1 E -1189.931956
+C      2.770368    4.331886   -0.402598
+H      3.199022    3.341449   -0.571950
+
+==> erythrosin_b/erythrosin_b_protomer_1/opt_t1.xyz <==
+35
+Coordinates from ORCA-job opt_t1 E -30040.251024
+C      4.854323    2.508129   -1.202532
+C      5.798236    3.519725   -1.310083
+
+==> etnbs/etnbs_protomer_1/opt_t1.xyz <==
+50
+Coordinates from ORCA-job opt_t1 E -1415.471406
+C      6.630796   -0.709341   -6.310952
+H      6.528563   -0.998549   -5.264563
+
+==> exeporfinium_chloride/exeporfinium_chloride_protomer_1/opt_t1.xyz <==
+102
+Coordinates from ORCA-job opt_t1 E -2186.193341
+C    -10.016398  -14.582998   -2.780932
+H     -9.731393  -14.563228   -1.732215
+
+==> flavopereirine/flavopereirine_protomer_1/opt_t1.xyz <==
+34
+Coordinates from ORCA-job opt_t1 E -766.424460
+C      6.257295   -1.752926   -1.270991
+H      5.794985   -2.724267   -1.373621
+
+==> fluorescein/fluorescein_protomer_1/opt_t1.xyz <==
+37
+Coordinates from ORCA-job opt_t1 E -1145.829496
+C      4.464816    2.239804   -0.853860
+C      5.458053    2.517775    0.043687
+
+==> genistein/genistein_protomer_1/opt_t1.xyz <==
+30
+Coordinates from ORCA-job opt_t1 E -954.052485
+C      4.965936    1.195440   -1.503227
+H      6.014691    1.049946   -1.698347
+
+==> glycoborine/glycoborine_protomer_1/opt_t1.xyz <==
+29
+Coordinates from ORCA-job opt_t1 E -671.463501
+C      2.109449    1.818606   -0.588615
+C      2.800534    2.437295    0.443463
+
+==> harmine/harmine_protomer_1/opt_t1.xyz <==
+28
+Coordinates from ORCA-job opt_t1 E -687.510228
+C     -4.263084   -3.071126    1.671262
+H     -5.298521   -3.033398    2.005517
+
+==> hematoporphyrin/hematoporphyrin_protomer_1/opt_t1.xyz <==
+80
+Coordinates from ORCA-job opt_t1 E -1988.725574
+O      3.513986   -7.794429   -0.357332
+C      4.745637   -7.820706   -0.605245
+
+==> hexvix/hexvix_protomer_1/opt_t1.xyz <==
+37
+Coordinates from ORCA-job opt_t1 E -712.906905
+C     -7.651045    4.186439    3.880153
+H     -8.464254    3.506867    4.148270
+
+==> hpph/hpph_protomer_1/opt_t1.xyz <==
+94
+Coordinates from ORCA-job opt_t1 E -2035.290349
+C     10.907930   -1.411010   -0.439431
+H     11.469480   -2.143102   -1.025809
+
+==> hypericin/hypericin_protomer_1/opt_t1.xyz <==
+54
+Coordinates from ORCA-job opt_t1 E -1755.388969
+C      3.323982    1.433932    0.000043
+C      4.019586    0.195846    0.006319
+
+==> hypocrellin_a/hypocrellin_a_protomer_1/opt_t1.xyz <==
+66
+Coordinates from ORCA-job opt_t1 E -1911.798156
+C      2.525345   -2.015676    0.490547
+C      2.217118   -0.831737   -0.267276
+
+==> hypocrellin_b/hypocrellin_b_protomer_1/opt_t1.xyz <==
+63
+Coordinates from ORCA-job opt_t1 E -1835.320963
+C      3.004925   -0.092569    1.651275
+C      3.351174    1.029871    0.819829
+
+==> ir_780/ir_780_protomer_1/opt_t1.xyz <==
+83
+Coordinates from ORCA-job opt_t1 E -1968.426830
+C     11.634590   -2.416834    5.773068
+H     11.355851   -1.476312    5.292252
+
+==> isomoschatoline/isomoschatoline_protomer_1/opt_t1.xyz <==
+36
+Coordinates from ORCA-job opt_t1 E -1049.735222
+C      2.174390    2.432295    0.463495
+H      3.043725    2.061481   -0.081974
+
+==> lemuteporfin/lemuteporfin_protomer_1/opt_t1.xyz <==
+106
+Coordinates from ORCA-job opt_t1 E -2677.889890
+C    -12.333354   -8.531133   -1.351971
+H    -12.509395   -8.093924   -2.334315
+
+==> lumazine/lumazine_protomer_1/opt_t1.xyz <==
+15
+Coordinates from ORCA-job opt_t1 E -600.227853
+N      0.837180    2.021751   -0.239801
+C      1.427367    0.964404    0.385416
+
+==> malachite_green/malachite_green_protomer_1/opt_t1.xyz <==
+50
+Coordinates from ORCA-job opt_t1 E -1001.164637
+C      4.311947    3.799009    0.006528
+H      4.523768    4.561251    0.759023
+
+==> mangostin/mangostin_protomer_1/opt_t1.xyz <==
+56
+Coordinates from ORCA-job opt_t1 E -1382.018584
+O      1.892915   -1.164211    0.403655
+H      0.668537   -0.399943    1.273360
+
+==> merocyanine540/merocyanine540_protomer_1/opt_t1.xyz <==
+69
+Coordinates from ORCA-job opt_t1 E -2422.880543
+O      3.159096    2.443448    2.234889
+S      4.151947    2.657724    1.173985
+
+==> methoxsalen/methoxsalen_protomer_1/opt_t1.xyz <==
+24
+Coordinates from ORCA-job opt_t1 E -763.184472
+O      4.552301   -2.336266    0.169037
+C      5.156379   -1.368479    0.613300
+
+==> methylene_blue/methylene_blue_protomer_1/opt_t1.xyz <==
+38
+Coordinates from ORCA-job opt_t1 E -1183.106260
+N      3.414002    1.456680    0.341636
+C      4.615495    0.832263    0.322452
+
+==> metvix/metvix_protomer_1/opt_t1.xyz <==
+22
+Coordinates from ORCA-job opt_t1 E -516.260613
+C      5.600354   -0.799381   -1.442822
+H      5.261943    0.043558   -2.042126
+
+==> nile_blue/nile_blue_protomer_1/opt_t1.xyz <==
+44
+Coordinates from ORCA-job opt_t1 E -1013.862904
+C      3.073727   -0.785388    1.608537
+H      2.234151   -0.206143    1.995281
+
+==> palmatine/palmatine_protomer_1/opt_t1.xyz <==
+48
+Coordinates from ORCA-job opt_t1 E -1169.339952
+C      0.707765    5.310575   -0.409921
+H      0.288687    6.070299   -1.045817
+
+==> phenalenone/phenalenone_protomer_1/opt_t1.xyz <==
+22
+Coordinates from ORCA-job opt_t1 E -575.596869
+C      0.312843   -0.193808   -1.407440
+H      0.103894   -0.645838   -2.368484
+
+==> phenoxazine/phenoxazine_protomer_1/opt_t1.xyz <==
+23
+Coordinates from ORCA-job opt_t1 E -592.802614
+C      4.721550    2.971609   -0.956683
+C      4.754899    4.007631   -1.881648
+
+==> pheophorbide_a/pheophorbide_a_protomer_1/opt_t1.xyz <==
+79
+Coordinates from ORCA-job opt_t1 E -1950.820420
+C      0.152268   -0.041862   -0.733876
+H     -0.173809   -1.080907   -0.813223
+
+==> phleichrome/phleichrome_protomer_1/opt_t1.xyz <==
+70
+Coordinates from ORCA-job opt_t1 E -1914.210269
+C      3.451918    4.159524    0.323073
+C      3.303456    2.727471    0.125126
+
+==> photofrin_ii/photofrin_ii_protomer_1/opt_t1.xyz <==
+79
+Coordinates from ORCA-job opt_t1 E -1913.472840
+O     13.114623   -2.336326   -4.639476
+C     12.151708   -1.547952   -4.464439
+
+==> phthalocyanine/phthalocyanine_protomer_1/opt_t1.xyz <==
+58
+Coordinates from ORCA-job opt_t1 E -1668.904016
+C      1.935180    7.566566   -3.752833
+C      2.146503    7.994179   -5.053583
+
+==> physcion/physcion_protomer_1/opt_t1.xyz <==
+33
+Coordinates from ORCA-job opt_t1 E -993.415370
+O      4.374646    5.888848    0.542455
+C      3.724281    4.850277    0.817846
+
+==> pimpinellin/pimpinellin_protomer_1/opt_t1.xyz <==
+28
+Coordinates from ORCA-job opt_t1 E -877.752256
+C      8.307406    6.307148   -1.743226
+H      8.303146    5.646869   -2.608032
+
+==> porphycene/porphycene_protomer_1/opt_t1.xyz <==
+38
+Coordinates from ORCA-job opt_t1 E -989.872191
+C      4.737139    0.983688    2.988915
+H      3.840607    1.086381    3.591121
+
+==> porphyrin/porphyrin_protomer_1/opt_t1.xyz <==
+38
+Coordinates from ORCA-job opt_t1 E -989.868216
+C      1.745849    4.636811   -3.524420
+H      0.813836    4.740352   -4.056358
+
+==> protoporphyrin_ix/protoporphyrin_ix_protomer_1/opt_t1.xyz <==
+74
+Coordinates from ORCA-job opt_t1 E -1835.759483
+O      6.550089   -0.092811    5.267372
+C      7.497476   -0.711722    4.713016
+
+==> pterin/pterin_protomer_1/opt_t1.xyz <==
+17
+Coordinates from ORCA-job opt_t1 E -580.816373
+N      3.755777    3.799001   -1.037416
+C      4.175350    2.734352   -1.763190
+
+==> purpurin/purpurin_protomer_1/opt_t1.xyz <==
+27
+Coordinates from ORCA-job opt_t1 E -914.797570
+O      3.337870    3.839296   -2.451426
+C      3.418037    4.136683   -1.158475
+
+==> quercetin/quercetin_protomer_1/opt_t1.xyz <==
+32
+Coordinates from ORCA-job opt_t1 E -1104.588854
+C      0.332214   -0.646310    2.456516
+H      0.996448   -1.487048    2.559252
+
+==> quinine/quinine_protomer_1/opt_t1.xyz <==
+49
+Coordinates from ORCA-job opt_t1 E -1037.260252
+C     -0.081075    1.588639    1.569388
+C      0.500456    2.763125    1.087850
+
+==> redaporfin/redaporfin_protomer_1/opt_t1.xyz <==
+114
+Coordinates from ORCA-job opt_t1 E -5284.766104
+C    -14.488707    0.763311   -7.754508
+H    -14.528743    1.721405   -7.238039
+
+==> ret_bdp/ret_bdp_protomer_1/opt_t1.xyz <==
+171
+Coordinates from ORCA-job opt_t1 E -4264.883299
+C      1.671747    2.199467   -3.602241
+H      1.960353    2.059981   -2.558452
+
+==> rhein/rhein_protomer_1/opt_t1.xyz <==
+28
+Coordinates from ORCA-job opt_t1 E -1027.715033
+O      4.829113    3.455711    1.729565
+C      4.244421    3.704929    0.656389
+
+==> riboflavin/riboflavin_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1 E -1330.732096
+O      5.736160   -1.819097   -0.580594
+H      6.575766   -2.159781   -0.213423
+
+==> rose_bengal/rose_bengal_protomer_1/opt_t1.xyz <==
+37
+Coordinates from ORCA-job opt_t1 E -31888.857892
+Cl    -0.016612    5.841225   -1.393104
+C     -0.015032    4.498655   -0.320154
+
+==> rubellin_a/rubellin_a_protomer_1/opt_t1.xyz <==
+61
+Coordinates from ORCA-job opt_t1 E -1834.108420
+O      6.259920    1.464449    1.008092
+H      6.071187    1.736979    1.914142
+
+==> rubiadin/rubiadin_protomer_1/opt_t1.xyz <==
+29
+Coordinates from ORCA-job opt_t1 E -878.848466
+O      7.172678    1.150746    0.695328
+H      6.981349    1.521804   -0.898982
+
+==> sanguinarin/sanguinarin_protomer_1/opt_t1.xyz <==
+39
+Coordinates from ORCA-job opt_t1 E -1126.392926
+C     14.608210    2.838699    3.800370
+O     13.834052    1.749290    4.341229
+
+==> sapphyrin_pci2000/sapphyrin_pci2000_protomer_1/opt_t1.xyz <==
+108
+Coordinates from ORCA-job opt_t1 E -2136.017602
+N      6.127957   -0.229916    2.452071
+H      6.194440   -0.232172    1.444970
+
+==> soranjidiol/soranjidiol_protomer_1/opt_t1.xyz <==
+29
+Coordinates from ORCA-job opt_t1 E -878.851535
+O      4.810831    2.750955    1.494701
+C      4.116564    3.482709    0.624541
+
+==> sphondin/sphondin_protomer_1/opt_t1.xyz <==
+24
+Coordinates from ORCA-job opt_t1 E -763.191457
+C     -1.107242    1.321615   -1.117715
+O     -1.104154   -0.043561   -1.202422
+
+==> talaporfin/talaporfin_protomer_1/opt_t1.xyz <==
+89
+Coordinates from ORCA-job opt_t1 E -2422.684869
+O      8.913011    6.335723   -1.943195
+C      7.917962    5.592553   -1.760791
+
+==> tc1pp/tc1pp_protomer_1/opt_t1.xyz <==
+80
+Coordinates from ORCA-job opt_t1 E -2102.599745
+C      8.570156    4.411760   -4.414863
+H      8.829421    5.166266   -3.683201
+
+==> tc4pp/tc4pp_protomer_1/opt_t1.xyz <==
+86
+Coordinates from ORCA-job opt_t1 E -2667.197165
+O     15.424904   14.288504    7.440200
+C     14.195223   14.028335    7.464881
+
+==> texaphyrin/texaphyrin_protomer_1/opt_t1.xyz <==
+42
+Coordinates from ORCA-job opt_t1 E -1121.446321
+C      6.687160   -1.124099    1.769365
+H      6.735762   -1.024973    2.845619
+
+==> th9402/th9402_protomer_1/opt_t1.xyz <==
+42
+Coordinates from ORCA-job opt_t1 E -6292.598897
+C      6.622990   -1.369657   -0.551796
+H      7.633864   -1.285365   -0.947172
+
+==> thiazolopyrimidin_ch3/thiazolopyrimidin_ch3_protomer_1/opt_t1.xyz <==
+50
+Coordinates from ORCA-job opt_t1 E -1623.287673
+C      7.382498   -2.136047    0.135716
+H      8.275793   -1.873004    0.688962
+
+==> tio1/tio1_protomer_1/opt_t1.xyz <==
+25
+Coordinates from ORCA-job opt_t1 E -1335.032949
+S      0.880869   -1.076227    2.474931
+C      1.886741   -0.993831    3.880333
+
+==> tio2/tio2_protomer_1/opt_t1.xyz <==
+26
+Coordinates from ORCA-job opt_t1 E -1410.283101
+S     -2.878896    5.849730    0.340454
+C     -3.279261    7.394956    1.011271
+
+==> tio3/tio3_protomer_1/opt_t1.xyz <==
+28
+Coordinates from ORCA-job opt_t1 E -1411.558342
+S     -0.040059    1.548260    2.795058
+C     -0.337964    1.827392    4.474297
+
+==> tio4/tio4_protomer_1/opt_t1.xyz <==
+47
+Coordinates from ORCA-job opt_t1  -2233.462160037403
+  C    -16.562356   -4.066179   -4.661154
+  H    -16.013835   -4.971662   -4.931039
+
+==> toluidine_blue/toluidine_blue_protomer_1/opt_t1.xyz <==
+35
+Coordinates from ORCA-job opt_t1 E -1143.801933
+C      0.505033   -0.175011    1.092012
+C     -0.293380   -1.023049    1.903102
+
+==> tolyporphin/tolyporphin_protomer_1/opt_t1.xyz <==
+100
+Coordinates from ORCA-job opt_t1 E -2524.211404
+O      6.834927    7.171179   -3.094966
+C      6.788139    7.902324   -2.131912
+
+==> trioxsalen/trioxsalen_protomer_1/opt_t1.xyz <==
+29
+Coordinates from ORCA-job opt_t1 E -766.621405
+C      2.201041   -3.851026    2.554128
+H      1.364546   -3.637066    3.228532
+
+==> ts1pp/ts1pp_protomer_1/opt_t1.xyz <==
+81
+Coordinates from ORCA-job opt_t1 E -2537.946709
+C      4.141664    0.672811    3.384786
+H      3.311549    0.917548    2.739797
+
+==> ts4pp/ts4pp_protomer_1/opt_t1.xyz <==
+90
+Coordinates from ORCA-job opt_t1 E -4408.623172
+C     12.981273   -3.997498    1.454862
+H     12.590873   -4.007511    2.464220
+
+==> verteporfin/verteporfin_protomer_1/opt_t1.xyz <==
+94
+Coordinates from ORCA-job opt_t1 E -2408.937986
+C      7.173322    7.233907   -1.442934
+H      6.518585    6.434325   -1.785280
+
+==> victoria_blue/victoria_blue_protomer_1/opt_t1.xyz <==
+75
+Coordinates from ORCA-job opt_t1 E -1445.745432
+C      2.182666    1.665328    0.551555
+H      1.110517    1.517556    0.403591
+
+==> vinblastine/vinblastine_protomer_1/opt_t1.xyz <==
+119
+Coordinates from ORCA-job opt_t1 E -2685.648673
+C     12.856547   -3.602998    6.431013
+H     13.365746   -4.208241    7.174206

@@ -1,0 +1,4 @@
+! b3lyp_g  def2-tzvp  CPCM(water) OPT
+%PAL NPROCS 16 END
+%moinp "opt_t1.gbw"
+* xyzfile   0  3 opt_t1.xyz

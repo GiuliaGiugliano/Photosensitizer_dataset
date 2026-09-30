@@ -1,0 +1,22 @@
+./run_xtb_aa.sh &
+./run_xtb_ab.sh &
+./run_xtb_ac.sh &
+./run_xtb_ad.sh &
+./run_xtb_ae.sh &
+./run_xtb_af.sh &
+./run_xtb_ag.sh &
+./run_xtb_ah.sh &
+./run_xtb_ai.sh &
+./run_xtb_aj.sh &
+./run_xtb_ak.sh &
+./run_xtb_al.sh &
+./run_xtb_am.sh &
+./run_xtb_an.sh &
+./run_xtb_ao.sh &
+./run_xtb_ap.sh &
+./run_xtb_aq.sh &
+./run_xtb_ar.sh &
+./run_xtb_as.sh &
+./run_xtb_at.sh &
+./run_xtb_au.sh &
+./run_xtb_av.sh

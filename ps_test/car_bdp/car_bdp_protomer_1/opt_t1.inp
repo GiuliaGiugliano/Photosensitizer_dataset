@@ -1,0 +1,6 @@
+! b3lyp_g zora zora-def2-tzvp RI-SOMF(1X) SARC/J OPT
+%moinp "opt_t1.gbw"
+%BASIS
+        newgto I  "sarc-zora-tzvp" end
+end
+* xyzfile   0  3 opt_t1.xyz

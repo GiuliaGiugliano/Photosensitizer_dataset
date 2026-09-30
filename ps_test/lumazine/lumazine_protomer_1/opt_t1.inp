@@ -1,0 +1,2 @@
+! b3lyp_g  def2-tzvp  CPCM(water) OPT
+* xyzfile   -1  3 xtbopt.xyz

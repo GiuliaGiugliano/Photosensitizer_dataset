@@ -1,0 +1,10 @@
+! b3lyp_g  def2-tzvp  CPCM(water)
+%maxcore 16000
+
+%TDDFT
+        nroots  10
+        triplets true
+        dosoc   true
+        tda     true
+END
+* xyzfile   1  1 xtbopt.xyz

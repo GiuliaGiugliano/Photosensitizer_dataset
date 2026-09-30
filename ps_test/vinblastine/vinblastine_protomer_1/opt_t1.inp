@@ -1,0 +1,3 @@
+! b3lyp_g  def2-tzvp  CPCM(water) OPT
+%moinp "opt_t1.gbw"
+* xyzfile   2  3 opt_t1.xyz

@@ -1,0 +1,9 @@
+! b3lyp_g  def2-tzvp  CPCM(water) OPT Slowconv
+%PAL NPROCS 16 END
+%moinp "opt_t1.gbw"
+%maxcore 8000
+
+%scf
+  maxiter 500
+end
+* xyzfile   0  3 opt_t1.xyz
